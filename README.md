@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">React Clone</h1></summary>
+    <summary><h1 style="display: inline-block">React Lee Media</h1></summary>
   </ul>
 </div>
 
@@ -41,8 +41,6 @@ Modern UI/UX website using React.js & Material UI - YouTube </p>
 </table>
 
 
-
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h2>How does my project look</h2></summary>
@@ -50,11 +48,9 @@ Modern UI/UX website using React.js & Material UI - YouTube </p>
 </div>
 
 
-[Live Link]()
+[Live Link](https://react-leemedia.vercel.app/)
 
-![youtube](https://github.com/AliDurul/React_Youtube/assets/80897590/59f820a2-931c-4819-bc4c-e342cc42a1fb)
-
-
+![leeMedia](https://github.com/AliDurul/React_Lee-Media/assets/80897590/ae3fa317-2f15-4494-8a8e-ccbdd662add0)
 
 
 <div id="user-content-toc">
