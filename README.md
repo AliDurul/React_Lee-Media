@@ -50,9 +50,10 @@ Modern UI/UX website using React.js & Material UI - YouTube </p>
 </div>
 
 
-[Live Link](https://lee-react-socialmedia.vercel.app/)
+[Live Link]()
 
-![Video_231216132001](https://github.com/AliDurul/React_SocialMedia/assets/80897590/d793c394-f4c8-4f63-9fc6-489173796d4f)
+![youtube](https://github.com/AliDurul/React_Youtube/assets/80897590/59f820a2-931c-4819-bc4c-e342cc42a1fb)
+
 
 
 
